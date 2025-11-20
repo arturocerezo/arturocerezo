@@ -1,5 +1,8 @@
 <div align="center">
+ <div align="center">
   
+# **Arturo Cerezo García**  
+ 
 # **Arturo Cerezo García**  
 ### *Lawyer · Researcher · Composer · Founder of Supremacía Coherencial*
 
@@ -74,6 +77,7 @@ I compose orchestral, cinematic and conceptual music exploring coherence, symmet
 | **ORCID** | https://orcid.org/0000-0002-XXXX-XXXX |
 | **Zenodo** | https://doi.org/10.5281/zenodo.17644233 |
 | **GitHub** | https://github.com/arturocerezo |
+<img width="1536" height="1024" alt="c73b9d14-1623-4204-881b-46744167046c" src="https://github.com/user-attachments/assets/4d1c9053-1b47-47aa-816e-35df7b0fc64b" />
 
 ---
 
