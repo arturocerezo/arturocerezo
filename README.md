@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arturocerezo/arturocerezo/main/A_digital_graphic_design_banner_features_the_title.png" 
-       alt="Supremacía Coherencial Banner" 
-       width="100%">
-</p>
 
-<div align="center">
-  
 # **Arturo Cerezo García**  
 ### *Lawyer · Researcher · Composer · Founder of Supremacía Coherencial*
 
